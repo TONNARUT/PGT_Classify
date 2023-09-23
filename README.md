@@ -5,7 +5,8 @@ PGT Classification: 3 Types of Object Classification <br />
 (2) Glass <br />
 (3) Tin can <br />
 
-Objective: This program is developed to identify the recycle waste objects: plastic can, glass, and tin can. <br />
+Objective: <br />
+This program is developed to identify the recycle waste objects: plastic can, glass, and tin can. <br />
 
 Description: <br />
 This program uses deep learning model - MobileNet V2 and Transfer Learning techniques <br />
