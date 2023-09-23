@@ -1,9 +1,9 @@
 # PGT_Classify
 
-PGT Classification: 3 Types of Object Classification
-(1) Plastic can 
-(2) Glass
-(3) Tin can
+PGT Classification: 3 Types of Object Classification <br />
+(1) Plastic can <br />
+(2) Glass <br />
+(3) Tin can <br />
 
 Objective: This program is developed to identify the recycle waste objects: plastic can, glass, and tin can
 
